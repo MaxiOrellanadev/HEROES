@@ -1,2 +1,2 @@
  # HEROES
- # Maximiliano Orellana,Uriel Aguire Guerrero, Leandro Mumbach.
+ # nombre:Maximiliano Orellana,edad:31,lugar de residencia:Lanus Este.
